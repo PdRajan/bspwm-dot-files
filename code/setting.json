@@ -1,0 +1,94 @@
+
+
+{
+   
+    // "vscode_custom_css.imports": [
+    //     "file:///home/pd/.config/Code/style.css"
+    // ],
+    // "vscode_custom_css.policy": true,
+    
+    "workbench.editorAssociations": {
+        "*.swp": "default",
+        "*.sqlite3": "default"
+    },
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 19,
+    "editor.fontWeight": "600",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontWeight": "500",
+    "terminal.integrated.fontSize": 15,
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking":"phase",
+    
+
+
+
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#10131a",
+        "tab.inactiveBackground": "#282c34",
+        "activityBar.background": "#10131a",
+        "editorGroup.background": "#282c34",
+        "sideBar.background": "#282c34",
+        "editor.background": "#10131a",
+        "tab.inactiveForeground": "#FFF",
+        "tab.activeForeground": "#FFF",
+        "tab.border": "#10131a",
+        "editor.lineHighlightBackground": "#44475A",
+        "editor.selectionHighlightBackground": "#44475A",
+        "editor.selectionBackground": "#535471",
+        "tab.activeBorder": "#FFF",
+        "terminal.background": "#12161f",
+        "terminal.foreground": "#ABB2BF",
+        "terminal.ansiBlack": "#282c34",
+        "terminal.ansiBrightBlack": "#5C6370",
+        "terminal.ansiRed": "#FF5C5C",
+        "terminal.ansiGreen": "#C3E88D",
+        "terminal.ansiYellow": "#FFB86C",
+        "terminal.ansiBlue": "#82AAFF",
+        "terminal.ansiMagenta": "#C792EA",
+        "terminal.ansiCyan": "#89DDFF",
+        "terminal.ansiWhite": "#FFFFFF",
+        "terminal.ansiBrightRed": "#FF5370",
+        "terminal.ansiBrightGreen": "#C3E88D",
+        "terminal.ansiBrightYellow": "#FFCB6B",
+        "terminal.ansiBright": "#FFCB6B",
+
+        
+        
+    },
+    "workbench.statusBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": false,
+    "editor.stickyScroll.enabled": true,
+    "editor.minimap.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    
+    "code-runner.ignoreSelection": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.customCommand": "",
+    "tabnine.experimentalAutoImports": true,
+    "workbench.startupEditor": "none",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Monokai Aora",
+    "workbench.sideBar.location": "right",
+    "files.associations": {
+        "*.html": "html"
+    },
+    "css.customData": [
+        "file:///home/pd/.config/Code/style.css"
+    ],
+    "settingsSync.ignoredSettings": [
+    
+    ]
+    // "vscode_custom_cs.policy": true,
+    
+}
+
